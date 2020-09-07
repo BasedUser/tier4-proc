@@ -1,0 +1,11 @@
+{
+    "type": "LogicBlock",
+    "range": 3360,
+    "instructionsPerTick": 625,
+    "size": 1,
+    "health": 500,
+    "name": "Quantum Coprocessor",
+    "buildVisibility": "sandboxOnly",
+    "category": "logic",
+    "description": "Impractically powerful processor. Intended for sandbox rendering. Sandbox only."
+}

@@ -1,0 +1,9 @@
+{
+	"name": "t4-processor",
+	"displayName": "T4 Processor",
+	"author": "BasedUser",
+	"description": "",
+	"version": "1.0",
+	"dependencies": [],
+	"hidden": false
+}
