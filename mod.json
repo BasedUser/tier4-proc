@@ -4,6 +4,7 @@
 	"author": "BasedUser",
 	"description": "",
 	"version": "1.0",
+	"minGameVersion": 105,
 	"dependencies": [],
 	"hidden": false
 }
