@@ -1,7 +1,7 @@
 {
     "type": "LogicBlock",
     "range": 3360,
-    "instructionsPerTick": 625,
+    "instructionsPerTick": 1000,
     "size": 1,
     "health": 500,
     "name": "Quantum Coprocessor",
